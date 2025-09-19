@@ -25,14 +25,13 @@ Personal profile
 ## 📌 Projects
 Here are some of my featured projects:  
 
-- **Student Management System** – (Node.js, React, MySQL)  
-  👉 CRUD operations for managing student data, with authentication system.  
+- **Social Media Network** – (Node.js, React, MySQL)  
+  👉 A social media web app with user authentication, posting, commenting, and CRUD features.
+🔹 Role: Full-stack Developer (self-built project) 
 
-- **Network Packet Analyzer** – (Python, Scapy)  
-  👉 Tool for capturing & analyzing network traffic, useful for learning cybersecurity.  
-
-- **Personal Portfolio Website** – (Next.js, TailwindCSS)  
-  👉 A responsive website to showcase my skills & projects.  
+- **Online Interview Platform** – (React, Next.js,TailwindCSS Convex)
+👉 Built an online platform for conducting interviews with features like live coding environment, video call integration, and real-time collaboration.
+🔹 Role: Full-stack Developer (self-built project) 
 
 ---
 
@@ -43,13 +42,22 @@ Here are some of my featured projects:
 ---
 
 ## 🌱 Currently Learning
-- Data Structures & Algorithms  
-- System Design Basics  
-- Cloud Computing (AWS, Azure)  
+- Cloud Computing (AWS, Azure)
+- Data Structures & Algorithms (High Level)
+- System Design Basic
+- Advanced Networking
+- Ethical Hacking & Penetration Testing (OWASP, web app security)
+- Network Security & Packet Analysis
+- Defensive Security & System Hardening
+  
+
+
 
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/hoangnguyen)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/hoangnguyen2810)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenluhoang7720@gmail.com)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/hoang.nguyen.444594)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_dr544_/)  
+
