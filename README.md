@@ -3,7 +3,7 @@ Personal profile
 
 # 👋 Hi, I'm Hoàng Nguyễn  
 
-🎓 Student in Computer Science at XYZ University 
+🎓 Student in IT Engineering at Nguyen Tat Thanh University 
 💻 Interested in Web Development | Cybersecurity | Cloud Computing 
 🚀 Always learning, building, and sharing my journey
 ---
