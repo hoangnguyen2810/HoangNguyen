@@ -37,7 +37,7 @@ Here are some of my featured projects:
   👉 Built an online platform for conducting interviews with features like live coding environment, video call integration, and real-time collaboration.
   🔹 Role: Full-stack Developer (self-built project) 
 
-- **Wireless Security Testing Lab** – (Aircrack-ng, Wireshark, Hydra)  
+- **Wireless Security Testing Lab** – (Aircrack-ng, Wireshark)  
   👉 Simulated WPA/WPA2 cracking attacks in a controlled environment to assess WiFi security and understand real-world wireless vulnerabilities.  
   🔹 Role: Red Team Intern (practice project)  
 
