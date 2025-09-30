@@ -10,6 +10,8 @@ Personal profile
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
@@ -37,6 +39,14 @@ Here are some of my featured projects:
 
 🔹 Role: Full-stack Developer (self-built project) 
 
+**Wireless Security Testing Lab** – (Aircrack-ng, Wireshark, Hydra)  
+  👉 Simulated WPA/WPA2 cracking attacks in a controlled environment to assess WiFi security and understand real-world wireless vulnerabilities.  
+  🔹 Role: Red Team Intern (practice project)  
+
+- **Network Security Simulation** – (Cisco Packet Tracer, pfSense)  
+  👉 Designed and implemented a small enterprise network with **router, firewall, VLANs, and IDS configuration** to study defensive security in network infrastructures.  
+  🔹 Role: Network Security Student (lab project)
+  
 ---
 
 ## 📊 GitHub Stats
@@ -48,11 +58,11 @@ Here are some of my featured projects:
 ## 🌱 Currently Learning
 - Cloud Computing (AWS, Azure)
 - Data Structures & Algorithms (High Level)
-- System Design Basic
 - Advanced Networking
 - Ethical Hacking & Penetration Testing (OWASP, web app security)
 - Network Security & Packet Analysis
 - Defensive Security & System Hardening
+  
   
 
 
