@@ -31,13 +31,11 @@ Here are some of my featured projects:
 
 - **Social Media Network** – (Node.js, React, MySQL)  
   👉 A social media web app with user authentication, posting, commenting, and CRUD features.
-  
-🔹 Role: Full-stack Developer (self-built project) 
+  🔹 Role: Full-stack Developer (self-built project) 
 
 - **Online Interview Platform** – (React, Next.js, TailwindCSS, Convex)
-👉 Built an online platform for conducting interviews with features like live coding environment, video call integration, and real-time collaboration.
-
-🔹 Role: Full-stack Developer (self-built project) 
+  👉 Built an online platform for conducting interviews with features like live coding environment, video call integration, and real-time collaboration.
+  🔹 Role: Full-stack Developer (self-built project) 
 
 - **Wireless Security Testing Lab** – (Aircrack-ng, Wireshark, Hydra)  
   👉 Simulated WPA/WPA2 cracking attacks in a controlled environment to assess WiFi security and understand real-world wireless vulnerabilities.  
